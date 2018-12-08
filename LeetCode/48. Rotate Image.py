@@ -4,17 +4,7 @@ class Solution:
         :type matrix: List[List[int]]
         :rtype: void Do not return anything, modify matrix in-place instead.
         """
-        '''
-        一次进行4个数字交换：[x][y] -> [n-1-x][y] -> [y][n-1-x] -> [n-1-y][x]
-        '''
-        n = len(matrix)
-        for i in range(n//2):
-            for j in range(n-n//2):
-                matrix[i][j], matrix[n-1-j][i], matrix[n-1-i][n-1-j], matrix[j][n-1-i] =\
-                matrix[n-1-j][i], matrix[n-1-i][n-1-j], matrix[j][n-1-i], matrix[i][j]
-        
-        '''
-        先对角线翻转，再中心对称
+        # 先对角线翻转，再中心对称
         
         n = len(matrix)
         for i in range(n-1):
@@ -24,9 +14,17 @@ class Solution:
         for i in range(n):
             for j in range(n//2):
                 matrix[i][j], matrix[i][n-1-j] = matrix[i][n-1-j], matrix[i][j]
+                
         '''
+        一次进行4个数字交换：[x][y] -> [n-1-x][y] -> [y][n-1-x] -> [n-1-y][x]
         
-        '''
+        n = len(matrix)
+        for i in range(n//2):
+            for j in range(n-n//2):
+                matrix[i][j], matrix[n-1-j][i], matrix[n-1-i][n-1-j], matrix[j][n-1-i] =\
+                matrix[n-1-j][i], matrix[n-1-i][n-1-j], matrix[j][n-1-i], matrix[i][j]
+
+                
         分层翻转，从最外层翻转，一直翻转到最里面一层
         时间复杂度:O(row * col)，空间复杂度：O(1)
         
