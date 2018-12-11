@@ -10,8 +10,8 @@ class Solution:
             return m, n
 
         a = 1  
-        if x<0:
-            x = -1*x
+        if x < 0:
+            x = -1 * x
             a = -1
             
         num = []
@@ -21,15 +21,15 @@ class Solution:
                 num.append(y)
             num.append(x)
         else:
-            return x*a
+            return x * a
         
         num.reverse()
         n = 0
         for i in range(len(num)):
-            n = num[i]*(10**i) + n
+            n = num[i] * (10 ** i) + n
         n = a*n
         
-        if n <= 2**31-1 and n >= -2**31:
+        if n <= 2 ** 31-1 and n >= -2 ** 31:
             return n
         else:
             return 0
