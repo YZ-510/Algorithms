@@ -5,25 +5,32 @@
 #         self.next = None
 
 class Solution:
-    def removeNthFromEnd(self, head, n):
+    def reverseList(self, head):
         """
         :type head: ListNode
-        :type n: int
         :rtype: ListNode
         """
+        if not head:
+            return head
+        prev = None
+        while head.next:
+            nxt = head.next
+            head.next = prev
+            prev = head
+            head = nxt
+#        print(prev.val)
+        head.next = prev
+        return head
+        
         '''
-        双指针，fast 先走 n 步，再让 fast 和 slow 一起走
-        当 fast.next 为 None，说明走到了末尾
-        此时 slow 就是要删除节点的前一个节点
+        三个指针，分别指向前一个节点 prev、当前节点 cur、下一个节点 nxt，逐个翻转节点、遍历一轮
+        
+        prev = None
+        cur = head
+        while cur:
+            nxt = cur.next
+            cur.next = prev
+            prev = cur
+            cur = nxt
+        return prev
         '''
-        dummy = ListNode(-1)
-        dummy.next = head
-        slow = fast = dummy
-        for i in range(n):
-            fast = fast.next
-#        print(fast.val)
-        while fast.next:
-            fast = fast.next
-            slow = slow.next
-        slow.next = slow.next.next
-        return dummy.next
