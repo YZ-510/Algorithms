@@ -9,4 +9,5 @@ class Solution:
             if prices[i] < prices[i+1]:
                 n = n + prices[i+1] - prices[i]
                 i = i + 1
+                
         return n
