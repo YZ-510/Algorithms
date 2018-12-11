@@ -16,7 +16,7 @@ class Solution:
             return -1
         else:
             return t
-        
+            
         
         '''
         dic = {}
