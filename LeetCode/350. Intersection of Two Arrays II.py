@@ -10,4 +10,5 @@ class Solution:
             if i in nums2 and len(nums2)>0:
                 num.append(i)
                 nums2.remove(i)
+                
         return num
