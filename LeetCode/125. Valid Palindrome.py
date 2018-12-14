@@ -1,3 +1,6 @@
+# 验证回文串
+# https://leetcode-cn.com/problems/valid-palindrome/
+
 class Solution:
     def isPalindrome(self, s):
         """
