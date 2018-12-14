@@ -1,3 +1,6 @@
+# 两个数的交集 II
+# https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/
+
 class Solution:
     def intersect(self, nums1, nums2):
         """
