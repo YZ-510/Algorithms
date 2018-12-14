@@ -8,6 +8,7 @@ class Solution:
         :type nums2: List[int]
         :rtype: List[int]
         """
+        
         num = []
         for i in nums1:
             if i in nums2 and len(nums2)>0:
