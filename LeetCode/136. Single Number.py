@@ -1,3 +1,6 @@
+# 只出现一次的数字
+# https://leetcode-cn.com/problems/single-number/
+
 class Solution:
     def singleNumber(self, nums):
         """
