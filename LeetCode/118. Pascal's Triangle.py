@@ -1,3 +1,6 @@
+# 杨辉三角
+# https://leetcode-cn.com/problems/pascals-triangle/
+
 class Solution(object):
     def generate(self, numRows):
         """
