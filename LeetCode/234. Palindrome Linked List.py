@@ -13,6 +13,7 @@ class Solution:
         :type head: ListNode
         :rtype: bool
         """
+        
         # 使用快慢指针找到中间节点
         fast = slow = head
         # 找到中间节点
