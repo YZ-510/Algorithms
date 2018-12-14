@@ -1,3 +1,6 @@
+# 有效的数独
+# https://leetcode-cn.com/problems/valid-sudoku/
+
 class Solution:
     def isValidSudoku(self, board):
         """
