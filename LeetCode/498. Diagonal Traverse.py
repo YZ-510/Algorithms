@@ -1,3 +1,6 @@
+# 对角线遍历
+# https://leetcode-cn.com/problems/diagonal-traverse/
+
 class Solution(object):
     def findDiagonalOrder(self, matrix):
         """
