@@ -1,3 +1,6 @@
+# 删除链表的倒数第 N 个节点
+# https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, x):
