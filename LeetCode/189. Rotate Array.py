@@ -1,3 +1,6 @@
+# 旋转数组
+# https://leetcode-cn.com/problems/rotate-array/
+
 class Solution:
     def rotate(self, nums, k):
         """
