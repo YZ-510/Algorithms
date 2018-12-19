@@ -2,7 +2,10 @@
 # https://leetcode-cn.com/problems/design-circular-queue/
 
 # 维护 front 和 rear 指针
+# 随着元素不断入队，列表长度不断增加，队列整体不断往后移
+# 但要保持队列最大容纳 k 个元素，rear - front <= k
 # 得到元素的时候 rear + 1
+
 class MyCircularQueue(object):
 
     def __init__(self, k):
@@ -74,6 +77,7 @@ class MyCircularQueue(object):
         return self.rear - self.front == self.size
 
 '''
+# 不断更新列表，使得列表中元素为队列里应该剩下的元素
 class MyCircularQueue(object):
 
     def __init__(self, k):
