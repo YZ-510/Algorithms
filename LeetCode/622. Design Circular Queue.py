@@ -2,8 +2,8 @@
 # https://leetcode-cn.com/problems/design-circular-queue/
 
 # 维护 front 和 rear 指针
-# 随着元素不断入队，列表长度不断增加，队列整体不断往后移
-# 但要保持队列最大容纳 k 个元素，rear - front <= k
+# 随着元素不断入队，列表长度不断增加，但队列整体在不断往后移
+# 要保持队列最大容纳 k 个元素，rear - front <= k
 # 得到元素的时候 rear + 1
 
 class MyCircularQueue(object):
