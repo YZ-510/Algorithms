@@ -8,14 +8,22 @@ class Solution:
         :type target: int
         :rtype: List[int]
         """
+        dic = {}
+        for i in range(len(nums)):
+            if target - nums[i] in dic:
+                return [dic[target- nums[i]], i]
+            if nums[i] not in dic:
+                dic[nums[i]] = i
+        return False        
         
+        '''
         dict = {}
         for i, num in enumerate(nums):
             if target-num in dict:
                 return [dict[target-num], i]
             else:
                 dict[num] = i        
-     
+        '''
         '''
         # 执行用时: 1368 ms......
         num = []
