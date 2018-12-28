@@ -7,6 +7,7 @@
 - [对角线遍历](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/498.%20Diagonal%20Traverse.py)
 - [螺旋矩阵](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/54.%20Spiral%20Matrix.py)
 - [数组拆分 I](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/561.%20Array%20Partition%20I.py)
+- [两数之和](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/1.%20Two%20Sum.py)
 - [两数之和 II - 输入有序数组](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/167.%20Two%20Sum%20II-Input%20array%20is%20sorted.py)
 - [移除元素](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/27.%20Remove%20Element.py)
 - [最大连续 1 的个数](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/485.%20Max%20Consecutibe%20Ones.py)
