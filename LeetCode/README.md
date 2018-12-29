@@ -81,7 +81,7 @@
 - [设计哈希映射](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/706.%20Design%20HashMap.py)
 - [两个数组的交集](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/349.%20Intersection%20of%20Two%20Arrays.py)
 - [快乐数](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/202.%20Happy%20Number.py)
-
+- [同构字符串](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/205.%20Isomorphic%20String.py)
 
 >参考：[awesome-algorithm](https://github.com/apachecn/awesome-algorithm)、[AlgorithmsByPython](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)
 
