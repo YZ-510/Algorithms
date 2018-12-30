@@ -83,6 +83,9 @@
 - [快乐数](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/202.%20Happy%20Number.py)
 - [同构字符串](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/205.%20Isomorphic%20String.py)
 - [字符串中的第一个唯一字符](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/387.%20First%20Unique%20Character%20in%20a%20String.py)
+- [两个列表的最小索引总和](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists.py)
+- [存在重复元素 II](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/219.%20Contains%20Duplicate%20II.py)
+- [字母异位词分组](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/49.%20Group%20Anagrams.py)
 
 >参考：[awesome-algorithm](https://github.com/apachecn/awesome-algorithm)、[AlgorithmsByPython](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)
 
