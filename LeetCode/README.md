@@ -86,7 +86,14 @@
 - [两个列表的最小索引总和](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists.py)
 - [存在重复元素 II](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/219.%20Contains%20Duplicate%20II.py)
 - [字母异位词分组](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/49.%20Group%20Anagrams.py)
+- [寻找重复的子树](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/652.%20Find%20Duplicate%20Subtrees.py)
+- [宝石与石头](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/771.%20Jewels%20and%20Stones.py)
+- [无重复字符的最长子串](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py)
+- [四数相加 II](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/454.%204Sum%20II.py)
+- [前K个高频元素](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/347.%20Top%20K%20Frequent%20Elements.py)
+- [常数时间插入、删除和获取随机元素](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/380.%20Insert%20Delete%20GetRandom%20O(1).py)
 
->参考：[awesome-algorithm](https://github.com/apachecn/awesome-algorithm)、[AlgorithmsByPython](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)
 
-2018.12.01 --
+> 参考：[awesome-algorithm](https://github.com/apachecn/awesome-algorithm)、[AlgorithmsByPython](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)
+
+> 2018.12.01 --
