@@ -7,6 +7,8 @@ class RandomizedSet(object):
         """
         Initialize your data structure here.
         """
+        # 使用字典和列表，字典的 key 和 value 分别为元素和其 index
+        
         self.dic = {}
         self.lst = []
 
@@ -30,9 +32,9 @@ class RandomizedSet(object):
         """
         if val in self.dic:
             idx = self.dic[val]
-            self.lst[idx] = self.lst[-1]
+            self.lst[idx] = self.lst[-1]    # 末尾元素替换到删除元素的 index 位置
             self.dic[self.lst[idx]] = idx
-            self.lst.pop()
+            self.lst.pop()                  # 删除末尾元素
             del self.dic[val]
             return True
         return False
