@@ -24,4 +24,5 @@ class Solution(object):
             if buckets[i] != '*':
                 res.extend(buckets[i])
             i -= 1
+            
         return res
