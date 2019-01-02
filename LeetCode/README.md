@@ -90,8 +90,19 @@
 - [宝石与石头](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/771.%20Jewels%20and%20Stones.py)
 - [无重复字符的最长子串](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py)
 - [四数相加 II](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/454.%204Sum%20II.py)
-- [前K个高频元素](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/347.%20Top%20K%20Frequent%20Elements.py)
+- [前 K 个高频元素](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/347.%20Top%20K%20Frequent%20Elements.py)
 - [常数时间插入、删除和获取随机元素](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/380.%20Insert%20Delete%20GetRandom%20O(1).py)
+
+## 二分查找
+- [二分查找](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/704.%20Binary%20Search.py)
+- [x 的平方根](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/69.%20Sqrt(x).py)
+- [猜数字大小](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/374.%20Guess%20Number%20Higher%20or%20Lower.py)
+- [搜索旋转排序数组](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/33.%20Search%20in%20Rotated%20Sorted%20Array.py)
+- [第一个错误的版本](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/278.%20First%20Bad%20Version.py)
+- [寻找峰值](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/162.%20Find%20Peak%20Element.py)
+- [寻找旋转排序数组中的最小值](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.py)
+- [在排序数组中查找元素的第一个和最后一个位置](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py)
+- [找到 K 个最接近的元素](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/658.%20Find%20K%20Closest%20Elements.py)
 
 
 > 参考：[awesome-algorithm](https://github.com/apachecn/awesome-algorithm)、[AlgorithmsByPython](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)
