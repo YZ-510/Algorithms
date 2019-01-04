@@ -103,8 +103,16 @@
 - [寻找旋转排序数组中的最小值](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.py)
 - [在排序数组中查找元素的第一个和最后一个位置](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py)
 - [找到 K 个最接近的元素](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/658.%20Find%20K%20Closest%20Elements.py)
-
+- [Pow(x, n)](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/50.%20Pow(x%2C%20n).py)
+- [有效的完全平方数](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/367.%20Valid%20Perfect%20Square.py)
+- [寻找比目标字母大的最小字母](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.py)
+- [寻找旋转排序数组中的最小值](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.py)
+- [寻找旋转排序数组中的最小值 II](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.py)
+- [寻找重复数](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/287.%20Find%20the%20Duplicate%20Number.py)
+- [寻找两个有序数组的中位数](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/4.%20Median%20of%20Two%20Sorted%20Arrays.py)
+- [找出第 k 小的距离对](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/719.%20Find%20K-th%20Smallest%20Pair%20Distance.py)
+- [分割数组的最大值](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/410.%20Split%20Array%20Largest%20Sum.py)
 
 > 参考：[awesome-algorithm](https://github.com/apachecn/awesome-algorithm)、[AlgorithmsByPython](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)
 
-> 2018.12.01 --
+> 2018.12.01
