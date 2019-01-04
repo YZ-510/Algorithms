@@ -24,6 +24,6 @@ class Solution(object):
 
         # 快慢指针相遇点到环第一个节点的距离等于头节点到环第一个节点的距离
         while head != slow:
-            sloe = slow.next
+            slow = slow.next
             head = head.next
         return head
