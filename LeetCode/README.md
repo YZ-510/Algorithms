@@ -117,7 +117,12 @@
 - [二叉树的前序遍历](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/144.%20Binary%20Tree%20Preorder%20Traversal.py)
 - [二叉树的中序遍历](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/94.%20Binary%20Tree%20Inorder%20Traversal.py)
 - [二叉树的后序遍历](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/145.%20Binary%20Tree%20Postorder%20Traversal.py)
-- [ 二叉树的层次遍历](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/102.%20Binary%20Tree%20Level%20Order%20Traversal.py)
+- [二叉树的层次遍历](https://github.com/YZ-510/Algorithms/blob/master/LeetCode/102.%20Binary%20Tree%20Level%20Order%20Traversal.py)
+- [二叉树的最大深度](https://github.com/YinZ-510/Algorithms/blob/master/LeetCode/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)
+- [对称二叉树](https://github.com/YinZ-510/Algorithms/blob/master/LeetCode/101.%20Symmetric%20Tree.py)
+- [路径总和](https://github.com/YinZ-510/Algorithms/blob/master/LeetCode/112.%20Path%20Sum.py)
+- [从前序与中序遍历序列构造二叉树](https://github.com/YinZ-510/Algorithms/blob/master/LeetCode/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.py)
+- [从中序与后序遍历序列构造二叉树](https://github.com/YinZ-510/Algorithms/blob/master/LeetCode/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.py)
 
 
 > 参考：[awesome-algorithm](https://github.com/apachecn/awesome-algorithm)、[AlgorithmsByPython](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)
