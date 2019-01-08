@@ -17,18 +17,26 @@ class Codec:
         :rtype: str
         """
         if not root:
-            return 'None'
-        stack, seriStr = [], ''
-        while root or stack:
-            while root:
-                seriStr += str(root.val) + ','
-                stack.append(root)
-                root = root.left
-            seriStr += 'None,'
-            root = stack.pop()
-            root = root.right
-        seriStr = seriStr[:-1]
-        return seriStr
+            return []
+        res, level = [], [root]
+        while level:
+            for node in level:
+                if node:
+                    res.append(node.val)
+                else:
+                    res.append(None)
+            temp = []
+            for node in level:
+                if node:
+                    temp.extend([node.left, node.right])
+            level = temp
+        n = 0
+        for i in res[::-1]:
+            if i == None:
+                n += 1
+            else:
+                break
+        return res[:-n]
 
     def deserialize(self, data):
         """Decodes your encoded data to tree.
@@ -36,19 +44,19 @@ class Codec:
         :type data: str
         :rtype: TreeNode
         """
-        serialize = data.split(',')
-        tree, sp = self.buildTree(serialize, 0)
-        return tree
+        if not data:
+            return None
+        nodes = [TreeNode(x) if x is not None else None for x in data]
+        children = nodes[::-1]
+        root = children.pop()
+        for node in nodes:
+            if node is not None:
+                if len(children) > 0:
+                    node.left = children.pop()
+                if len(children) > 0:
+                    node.right = children.pop()
+        return root
     
-    def buildTree(self, s, sp):
-        if sp >= len(s) or s[sp] == 'None':
-            return None, sp + 1
-        node = TreeNode(int(s[sp]))
-        sp += 1
-        node.left, sp = self.buildTree(s, sp)
-        node.right, sp = self.buildTree(s, sp)
-        return node, sp
-        
 # Your Codec object will be instantiated and called as such:
 # codec = Codec()
 # codec.deserialize(codec.serialize(root))
