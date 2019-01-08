@@ -123,6 +123,10 @@
 - [路径总和](https://github.com/YinZ-510/Algorithms/blob/master/LeetCode/112.%20Path%20Sum.py)
 - [从前序与中序遍历序列构造二叉树](https://github.com/YinZ-510/Algorithms/blob/master/LeetCode/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.py)
 - [从中序与后序遍历序列构造二叉树](https://github.com/YinZ-510/Algorithms/blob/master/LeetCode/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.py)
+- [填充同一层的兄弟节点](https://github.com/YinZ-510/Algorithms/blob/master/LeetCode/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.py)
+- [填充同一层的兄弟节点 II](https://github.com/YinZ-510/Algorithms/blob/master/LeetCode/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.py)
+- [二叉树的最近公共祖先](https://github.com/YinZ-510/Algorithms/blob/master/LeetCode/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.py)
+- [二叉树的序列化与反序列化](https://github.com/YinZ-510/Algorithms/blob/master/LeetCode/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.py)
 
 
 > 参考：[awesome-algorithm](https://github.com/apachecn/awesome-algorithm)、[AlgorithmsByPython](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)
