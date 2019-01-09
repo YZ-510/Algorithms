@@ -129,6 +129,6 @@
 - [二叉树的序列化与反序列化](https://github.com/YinZ-510/Algorithms/blob/master/LeetCode/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.py)
 
 
-> 参考：[awesome-algorithm](https://github.com/apachecn/awesome-algorithm)、[AlgorithmsByPython](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)
+> 参考：[awesome-algorithm](https://github.com/apachecn/awesome-algorithm)
 
 > 2018.12.01
