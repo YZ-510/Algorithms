@@ -128,6 +128,18 @@
 - [二叉树的最近公共祖先](https://github.com/YinZ-510/Algorithms/blob/master/LeetCode/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.py)
 - [二叉树的序列化与反序列化](https://github.com/YinZ-510/Algorithms/blob/master/LeetCode/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.py)
 
+## 二叉搜索树
+- [验证二叉搜索树](https://github.com/YinZ-510/Algorithms/blob/master/LeetCode/98.%20Validate%20Binary%20Search%20Tree.py)
+- [二叉搜索树迭代器](https://github.com/YinZ-510/Algorithms/blob/master/LeetCode/173.%20Binary%20Search%20Tree%20Iterator.py)
+- [二叉搜索树中的搜索](https://github.com/YinZ-510/Algorithms/blob/master/LeetCode/700.%20Search%20in%20a%20Binary%20Search%20Tree.py)
+- [二叉搜索树中的插入操作](https://github.com/YinZ-510/Algorithms/blob/master/LeetCode/701.%20Insert%20into%20a%20Binary%20Search%20Tree.py)
+- [删除二叉搜索树中的节点](https://github.com/YinZ-510/Algorithms/blob/master/LeetCode/450.%20Delete%20Node%20in%20a%20BST.py)
+- [数据流中的第 K 大元素](https://github.com/YinZ-510/Algorithms/blob/master/LeetCode/703.%20Kth%20Largest%20Element%20in%20a%20Stream.py)
+- [二叉搜索树的最近公共祖先](https://github.com/YinZ-510/Algorithms/blob/master/LeetCode/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.py)
+- [存在重复元素 III](https://github.com/YinZ-510/Algorithms/blob/master/LeetCode/220.%20Contains%20Duplicate%20III.py)
+- [平衡二叉树](https://github.com/YinZ-510/Algorithms/blob/master/LeetCode/110.%20Balanced%20Binary%20Tree.py)
+- [将有序数组转换为二叉搜索树](https://github.com/YinZ-510/Algorithms/blob/master/LeetCode/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py)
+
 
 > 参考：[awesome-algorithm](https://github.com/apachecn/awesome-algorithm)
 
