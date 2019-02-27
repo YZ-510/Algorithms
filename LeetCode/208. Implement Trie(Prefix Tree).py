@@ -1,10 +1,10 @@
-# 实现 Trie（前缀树）
+# 实现 Trie(前缀树)
 # https://leetcode-cn.com/problems/implement-trie-prefix-tree/
 
 class TrieNode:
     
     def __init__(self):
-        self.childs = dict()    # 每个节点中声明一个Hashmap，Hashmap的键是字符，值是相对应的子节点
+        self.childs = dict()    # 每个节点中声明一个 Hashmap，Hashmap 的键是字符，值是相对应的子节点
         self.isWord = False
 
         
