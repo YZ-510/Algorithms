@@ -1,7 +1,7 @@
-# LeetCode
+## LeetCode
 
 
-## 数组
+### 数组
 - [寻找数组的中心索引](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0724.%20Find%20Pivot%20Index.py)
 - [至少是其他数字两倍的最大数](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py)
 - [加一](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0066.%20Plus%20One.py)
@@ -28,7 +28,7 @@
 - [数组中两个数的最大异或值](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.py)
 
 
-## 字符串
+### 字符串
 - [二进制求和](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0067.%20Add%20Binary.py)
 - [实现strStr()](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0028.%20Implement%20strStr().py)
 - [最长公共前缀](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0014.%20Longest%20Common%20Prefix.py)
@@ -43,7 +43,7 @@
 - [报数](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0038.%20Count%20and%20Say.py)
 
 
-## 链表
+### 链表
 - [设计链表](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0707.%20Design%20Linked%20List.py)
 - [环形链表](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0141.%20Linked%20List%20Cycle.py)
 - [环形链表 II](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0142.%20Linked%20List%20Cycle%20II.py)
@@ -61,7 +61,7 @@
 - [旋转链表](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0061.%20Rotate%20List.py)
 
 
-## 队列和 BFS
+### 队列和 BFS
 - [设计循环队列](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0622.%20Design%20Circular%20Queue.py)
 - [岛屿的个数](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0200.%20Number%20of%20Islands.py)
 - [打开转盘锁](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0752.%20Open%20the%20Lock.py)
@@ -71,7 +71,7 @@
 - [01 矩阵](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0542.%2001%20Matrix.py)
 
 
-## 栈和 DFS
+### 栈和 DFS
 - [最小栈](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0155.%20Min%20Stack.py)
 - [有效的括号](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0020.%20Valid%20Parentheses.py)
 - [每日温度](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0739.%20Daily%20Temperatures.py)
@@ -84,7 +84,7 @@
 - [钥匙和房间](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0841.%20Keys%20and%20Rooms.py)
 
 
-## 哈希表
+### 哈希表
 - [设计哈希集合](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0705.%20Design%20HashSet.py)
 - [设计哈希映射](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0706.%20Design%20HashMap.py)
 - [两个数组的交集](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0349.%20Intersection%20of%20Two%20Arrays.py)
@@ -102,7 +102,7 @@
 - [常数时间插入、删除和获取随机元素](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0380.%20Insert%20Delete%20GetRandom%20O(1).py)
 
 
-## 二分查找
+### 二分查找
 - [二分查找](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0704.%20Binary%20Search.py)
 - [x 的平方根](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0069.%20Sqrt(x).py)
 - [猜数字大小](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0374.%20Guess%20Number%20Higher%20or%20Lower.py)
@@ -123,7 +123,7 @@
 - [分割数组的最大值](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0410.%20Split%20Array%20Largest%20Sum.py)
 
 
-## 二叉树
+### 二叉树
 - [二叉树的前序遍历](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0144.%20Binary%20Tree%20Preorder%20Traversal.py)
 - [二叉树的中序遍历](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0094.%20Binary%20Tree%20Inorder%20Traversal.py)
 - [二叉树的后序遍历](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0145.%20Binary%20Tree%20Postorder%20Traversal.py)
@@ -139,7 +139,7 @@
 - [二叉树的序列化与反序列化](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0297.%20Serialize%20and%20Deserialize%20Binary%20Tree.py)
 
 
-## 二叉搜索树
+### 二叉搜索树
 - [验证二叉搜索树](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0098.%20Validate%20Binary%20Search%20Tree.py)
 - [二叉搜索树迭代器](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0173.%20Binary%20Search%20Tree%20Iterator.py)
 - [二叉搜索树中的搜索](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0700.%20Search%20in%20a%20Binary%20Search%20Tree.py)
@@ -152,13 +152,20 @@
 - [将有序数组转换为二叉搜索树](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py)
 
 
-## 前缀树
+### 前缀树
 - [实现 Trie(前缀树)](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0208.%20Implement%20Trie(Prefix%20Tree).py)
 - [键值映射](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0677.%20Map%20Sum%20Pairs.py)
 - [单词替换](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0648.%20Replace%20Words.py)
 - [添加与搜索单词 - 数据结构设计](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.py)
 
 
+### 动态规划
+- [爬楼梯](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0070.%20Climbing%20Stairs.py)
+- [买卖股票的最佳时机](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
+- [最大子序和](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0053.%20Maximum%20Subarray.py)
+- [打家劫舍](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0198.%20House%20Robber.py)
+
+
 > 参考：[awesome-algorithm](https://github.com/apachecn/awesome-algorithm)
 
-> 2018.12.01
+> 2018.12.01 --
