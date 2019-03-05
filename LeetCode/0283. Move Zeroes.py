@@ -11,6 +11,7 @@ class Solution:
         for i in range(len(nums)):
             if nums[i] == 0:
                 num.append(i)
+
         '''
         num 记录值为 0 的索引，nums 每删除一个 0，后面未删除的 0 的索引值就要减 1
         '''
