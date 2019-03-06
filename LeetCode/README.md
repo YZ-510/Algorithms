@@ -26,6 +26,7 @@
 - [旋转图像](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0048.%20Rotate%20Image.py)
 - [合并两个有序数组](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0088.%20Merge%20Sorted%20Array.py)
 - [数组中两个数的最大异或值](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.py)
+- [打乱数组](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0384.%20Shuffle%20an%20Array.py)
 
 
 ### 字符串
