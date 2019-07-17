@@ -1,23 +1,23 @@
 ## 理论基础
 
-| &emsp;&emsp;数组&emsp;&emsp; | &emsp;&emsp;**链表**&emsp;&emsp;  |  &emsp;&ensp;&ensp;**栈**&emsp;&ensp;&emsp; | &emsp;&emsp;**跳表**&emsp;&emsp; | &emsp;**散列表**&emsp;&emsp; | &emsp;&emsp;二叉树&emsp;&emsp; |
+| &emsp;&emsp;数组&emsp;&emsp; | &emsp;&emsp;**链表**&emsp;&emsp; | &emsp;&ensp;&ensp;**栈**&emsp;&ensp;&emsp; | &emsp;&emsp;**跳表**&emsp;&emsp; | &emsp;**散列表**&emsp;&emsp; | &emsp;&emsp;二叉树&emsp;&emsp; |
 | :---: | :---: | :---: | :------: | :---: | :--------: |
 | ️⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ️⭐ | ️⭐⭐ | ️⭐⭐⭐ |
 
 
 
-| &emsp;&emsp;贪心&emsp;&emsp;  | &emsp;&emsp;分治&emsp;&emsp;  | &emsp;&emsp;回溯&emsp;&ensp;  | &emsp;动态规划&emsp; | &emsp;&emsp;**递归**&emsp;&emsp;  | &emsp;复杂度分析&emsp; |
+| &emsp;&emsp;贪心&emsp;&emsp; | &emsp;&emsp;分治&emsp;&emsp; | &emsp;&emsp;回溯&emsp;&ensp; | &emsp;动态规划&emsp; | &emsp;&emsp;**递归**&emsp;&emsp; | &emsp;复杂度分析&emsp; |
 | :---: | :---: | :---: | :------: | :---: | :--------: |
 | ️⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ️⭐⭐⭐ | ️⭐⭐⭐ | ⭐⭐⭐ |
          
          
 ## 面试常考算法题
 
-以下列出面试高频出现，以及一些非常经典重要的算法题： 总计：100
+以下列出面试高频出现，以及一些非常经典重要的算法题：共 100 道
   
 > 实战题目 - Array
 
-| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
+| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :--: | :--: | :----------------------------------------------------------- | :----------------------------------------------------------- |
 |  11  | 中等 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [container with most water](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_11/ContainerWithMostWater.java) |
 |  26  | 简单 | [删除排序数组中重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [remove Duplicates from sorted array](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_26/RemoveDuplicatesFromSortedArray.java) |
@@ -29,7 +29,7 @@
 
 > 实战题目 - Linked List
 
-| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
+| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- |
 |  21  | 简单 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [merge two sorted lists](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_21/MergeTwoSortedLists.java) |
 |  24  | 中等 | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [swap nodes in pairs](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_24/SwapNodesInPairs.java) |
@@ -40,7 +40,7 @@
 
 > 其他实战题目
 
-| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
+| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- |
 |  1   | 简单 | [两数之和](https://leetcode-cn.com/problems/two-sum/)        | [two sum](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_1/TwoSum.java) |
 |  15  | 中等 | [三数之和](https://leetcode-cn.com/problems/3sum/)           | [three sum](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_15/ThreeSum.java) |
@@ -55,7 +55,7 @@
 
 > 实战题目 - Binary Tree
 
-| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
+| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- |
 |  22  | 中等 | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/) |          |
 |  94  | 中等 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/) |[binary tree inorder traversal](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_94/BinaryTreeInorderTraversal.java) |
@@ -74,7 +74,7 @@
 
 > 实战题目 - 分治
 
-| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
+| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- |
 |  17  | 中等  | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | |
 |  50  | 中等  | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/description/) |  [pow x - n](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_50/PowXN.java) |
@@ -83,14 +83,14 @@
 
 > 实战题目 - 二分查找
 
-| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
+| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- |
 |  33  | 中等 | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) |  [search in rotated sorted array](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_33/SearchInRotatedSortedArray.java) |
 |  69  | 简单 | [x 的平方根](https://leetcode-cn.com/problems/sqrtx/ )       |   [sqrtx](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_69/Sqrtx.java) |
 | 367  | 简单 | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) | [valid perfect square](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_367/ValidPerfectSquare.java) |
 > 实战题目 - 并查集
 
-| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
+| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- |
 | 130  |  中等 | [被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/#/description) | |
 | 200  |  中等 | [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) |   [number of islands](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_200/NumberOfIslands.java) |
@@ -98,7 +98,7 @@
 
 > 实战题目 - 遍历和搜索
 
-| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
+| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- |
 | 102  | 中等 | [二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/#/description) |  [binary tree level order traversal](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_102/BinaryTreeLevelOrderTraversal.java) |
 | 126  | 困难  | [单词接龙 II](https://leetcode-cn.com/problems/word-ladder-ii/description/) | |
@@ -109,7 +109,7 @@
 
 > 实战题目 - 动态规划
 
-| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
+| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- |
 |  32  | 中等 | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) |          |
 |  45  | 困难 | [跳跃游戏 II ](https://leetcode-cn.com/problems/jump-game-ii/) |          |
@@ -146,7 +146,7 @@
 
 > 实战题目 - 剪枝
 
-| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
+| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- |
 |  36  | 中等 | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/description/) |          |
 |  37  | 困难 | [解数独](https://leetcode-cn.com/problems/sudoku-solver/#/description) |          |
@@ -154,7 +154,7 @@
 
 > 实战题目 - 贪心
 
-| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
+| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- |
 | 455  | 简单 | [分发饼干](https://leetcode-cn.com/problems/assign-cookies/description/) |          |
 | 860  | 简单 | [柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/) |          |
@@ -163,7 +163,7 @@
 
 > 实战题目 - trie 树
 
-| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
+| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- |
 | 208  | 中等 | [实现 Trie (前缀树) ](https://leetcode-cn.com/problems/implement-trie-prefix-tree/#/description) |          |
 | 212  | 困难 | [单词搜索 II ](https://leetcode-cn.com/problems/word-search-ii/) |          |
@@ -171,7 +171,7 @@
 
 > 实战题目 - 位运算
 
-| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
+| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- |
 |  52  |  困难 | [N皇后 II ](https://leetcode-cn.com/problems/n-queens-ii/description/) |          |
 | 190  |  简单 | [颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) |          |
@@ -181,7 +181,7 @@
 
 > 实战题目 - LRU Catch
 
-| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案链接&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
+| &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- |
 | 146  | 困难  | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/#/) |          |
 
