@@ -167,6 +167,6 @@
 - [打家劫舍](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0198.%20House%20Robber.py)
 
 
-> 参考：[awesome-algorithm](https://github.com/apachecn/awesome-algorithm)
+> 参考：[LeetCode-Python](https://github.com/apachecn/Interview/tree/master/docs/Algorithm/Leetcode/Python)
 
 > 2018.12.01 --
