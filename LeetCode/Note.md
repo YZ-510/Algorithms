@@ -2,13 +2,13 @@
 
 | &emsp;&emsp;数组&emsp;&emsp; | &emsp;&emsp;**链表**&emsp;&emsp;  |  &emsp;&ensp;&ensp;**栈**&emsp;&ensp;&emsp; | &emsp;&emsp;**跳表**&emsp;&emsp; | &emsp;**散列表**&emsp;&emsp; | &emsp;&emsp;二叉树&emsp;&emsp; |
 | :---: | :---: | :---: | :------: | :---: | :--------: |
-| ️⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ️⭐  |  ️⭐⭐  | ️⭐⭐⭐   |
+| ️⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ️⭐ | ️⭐⭐ | ️⭐⭐⭐ |
 
 
 
 | &emsp;&emsp;贪心&emsp;&emsp;  | &emsp;&emsp;分治&emsp;&emsp;  | &emsp;&emsp;回溯&emsp;&ensp;  | &emsp;动态规划&emsp; | &emsp;&emsp;**递归**&emsp;&emsp;  | &emsp;复杂度分析&emsp; |
 | :---: | :---: | :---: | :------: | :---: | :--------: |
-| ️⭐⭐⭐  | ⭐⭐⭐  | ⭐⭐⭐  |  ️⭐⭐⭐    | ️⭐⭐⭐ |⭐⭐⭐|
+| ️⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ️⭐⭐⭐ | ️⭐⭐⭐ | ⭐⭐⭐ |
          
          
 ## 面试常考算法题
