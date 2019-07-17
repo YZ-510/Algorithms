@@ -5,16 +5,15 @@
 | ️⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ️⭐ | ️⭐⭐ | ️⭐⭐⭐ |
 
 
-
 | &emsp;&emsp;贪心&emsp;&emsp; | &emsp;&emsp;分治&emsp;&emsp; | &emsp;&emsp;回溯&emsp;&ensp; | &emsp;动态规划&emsp; | &emsp;&emsp;**递归**&emsp;&emsp; | &emsp;复杂度分析&emsp; |
 | :---: | :---: | :---: | :------: | :---: | :--------: |
 | ️⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ️⭐⭐⭐ | ️⭐⭐⭐ | ⭐⭐⭐ |
-         
-         
+
+
 ## 面试常考算法题
 
 以下列出面试高频出现，以及一些非常经典重要的算法题：共 100 道
-  
+
 > 实战题目 - Array
 
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
@@ -27,6 +26,7 @@
 | 189  | 简单 | [旋转数组](https://leetcode-cn.com/problems/rotate-array/)   | [rotate array](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_189/RotateArray.java) |
 | 283  | 简单 | [移动零](https://leetcode-cn.com/problems/move-zeroes/)      | [move zeroes](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_283/MoveZeroes.java) |
 
+
 > 实战题目 - Linked List
 
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
@@ -37,6 +37,7 @@
 | 141  | 简单 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [linkedList cycle](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_141/LinkedListCycle.java) |
 | 142  | 中等 | [环形链表II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [linked list cycle II](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_142/LinkedListCycleII.java) |
 | 206  | 简单 | [反转链表](https://leetcode.com/problems/reverse-linked-list/) | [reverse list](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_206/ReverseList.java) |
+
 
 > 其他实战题目
 
@@ -52,6 +53,7 @@
 | 239  | 困难 | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) |     [sliding window maximum](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_239/SlidingWindowMaximum.java) |
 | 242  | 简单 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/description/) |    [valid anagram](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_242/ValidAnagram.java) |
 | 641  | 中等 | [设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/) | |
+
 
 > 实战题目 - Binary Tree
 
@@ -72,6 +74,7 @@
 | 589  | 简单 | [N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description) | |
 | 590  | 简单 | [N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/description/ ) | |
 
+
 > 实战题目 - 分治
 
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
@@ -81,6 +84,7 @@
 |  78  | 中等  | [子集](https://leetcode-cn.com/problems/subsets/solution/hui-su-jie-fa-by-jawhiow/) |  [subsets](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_78/Subsets.java) |
 | 169  | 简单  | [求众数](https://leetcode-cn.com/problems/majority-element/description/) | |
 
+
 > 实战题目 - 二分查找
 
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
@@ -88,6 +92,8 @@
 |  33  | 中等 | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) |  [search in rotated sorted array](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_33/SearchInRotatedSortedArray.java) |
 |  69  | 简单 | [x 的平方根](https://leetcode-cn.com/problems/sqrtx/ )       |   [sqrtx](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_69/Sqrtx.java) |
 | 367  | 简单 | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) | [valid perfect square](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_367/ValidPerfectSquare.java) |
+
+
 > 实战题目 - 并查集
 
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
@@ -95,6 +101,7 @@
 | 130  |  中等 | [被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/#/description) | |
 | 200  |  中等 | [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) |   [number of islands](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/highFrequencyLeetcode/leetcode_200/NumberOfIslands.java) |
 | 547  |  中等 | [朋友圈](https://leetcode-cn.com/problems/friend-circles/#/description) | |
+
 
 > 实战题目 - 遍历和搜索
 
@@ -106,6 +113,7 @@
 | 433  | 中等  | [最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/#/description) | |
 | 515  | 中等  | [在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/#/description) | |
 | 529  | 中等  | [扫雷游戏](https://leetcode-cn.com/problems/minesweeper/description/) | |
+
 
 > 实战题目 - 动态规划
 
@@ -152,6 +160,7 @@
 |  37  | 困难 | [解数独](https://leetcode-cn.com/problems/sudoku-solver/#/description) |          |
 |  51  | 困难 | [N皇后](https://leetcode-cn.com/problems/n-queens/)          |          |
 
+
 > 实战题目 - 贪心
 
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
@@ -179,10 +188,9 @@
 | 231  |  简单 | [2的幂](https://leetcode-cn.com/problems/power-of-two/)      |          |
 | 338  |  中等 | [比特位计数](https://leetcode-cn.com/problems/counting-bits/description/) |          |
 
+
 > 实战题目 - LRU Catch
 
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- |
 | 146  | 困难  | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/#/) |          |
-
-
