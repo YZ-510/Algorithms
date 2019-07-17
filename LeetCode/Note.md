@@ -16,7 +16,7 @@
 
 > 实战题目 - Array
 
-| &emsp;题号&emsp; | &emsp;难度&emsp; | &emsp;&emsp;&emsp;题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
+| &emsp;题号&emsp; | &emsp;难度&emsp; | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp答案;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :--: | :--: | ----------------------------------------------------------- | ----------------------------------------------------------- |
 |  11  | 中等 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) |  |
 |  26  | 简单 | [删除排序数组中重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [Remove Duplicates from Sorted Array](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0026.%20Remove%20Duplicates%20from%20Sorted%20Array.py) |
