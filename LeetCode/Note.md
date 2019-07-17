@@ -45,13 +45,13 @@
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- |
 |  1   | 简单 | [两数之和](https://leetcode-cn.com/problems/two-sum/)        | [Two Sum](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0001.%20Two%20Sum.py) |
 |  15  | 中等 | [三数之和](https://leetcode-cn.com/problems/3sum/)           |  |
-|  20  | 简单 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/description/) | [Valid Parentheses](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0020.%20Valid%20Parentheses.py) |
+|  20  | 简单 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [Valid Parentheses](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0020.%20Valid%20Parentheses.py) |
 |  42  | 困难 | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) |  |
 |  49  | 中等 | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | [Group Anagrams](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0049.%20Group%20Anagrams.py) |
 |  84  | 困难 | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)&ensp;&ensp;|  |
 | 155  | 简单 | [最小栈](https://leetcode-cn.com/problems/min-stack/)        |      [Min Stack](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0155.%20Min%20Stack.py) |
 | 239  | 困难 | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) |  |
-| 242  | 简单 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/description/) | [Valid Anagram](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0242.%20Valid%20Anagram.py) |
+| 242  | 简单 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | [Valid Anagram](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0242.%20Valid%20Anagram.py) |
 | 641  | 中等 | [设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/) |  |
 
 
@@ -61,18 +61,18 @@
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- |
 |  22  | 中等 | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/) |  |
 |  94  | 中等 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/) | [Binary Tree Inorder Traversal](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0094.%20Binary%20Tree%20Inorder%20Traversal.py) |
-|  98  | 中等 | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree) | [Validate Binary Search Tree](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0098.%20Validate%20Binary%20Search%20Tree.py) |
-| 104  | 简单 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | [Maximum Depth of Binary Tree](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0104.%20Maximum%20Depth%20of%20Binary%20Tree.py) |
-| 105  | 中等 | [从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |  [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.py) |
-| 111  | 简单 | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree) |  |
-| 144  | 中等 | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/description/ ) | [Binary Tree Preorder Traversal](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0144.%20Binary%20Tree%20Preorder%20Traversal.py) |
+|  98  | 中等 | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [Validate Binary Search Tree](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0098.%20Validate%20Binary%20Search%20Tree.py) |
+| 104  | 简单 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [Maximum Depth of Binary Tree](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0104.%20Maximum%20Depth%20of%20Binary%20Tree.py) |
+| 105  | 中等 | [从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |  [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.py) |
+| 111  | 简单 | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) |  |
+| 144  | 中等 | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/description/) | [Binary Tree Preorder Traversal](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0144.%20Binary%20Tree%20Preorder%20Traversal.py) |
 | 226  | 简单 | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/) |  |
 | 230  | 中等 | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/comments/) |  |
 | 236  | 中等 | [二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Lowest Common Ancestor of a Binary Tree](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.py) |
 | 297  | 困难 | [二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | [Serialize and Deserialize Binary Tree](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0297.%20Serialize%20and%20Deserialize%20Binary%20Tree.py) |
-| 429  | 简单 | [N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/description/) |  |
-| 589  | 简单 | [N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description) |  |
-| 590  | 简单 | [N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/description/) |  |
+| 429  | 简单 | [N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/) |  |
+| 589  | 简单 | [N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) |  |
+| 590  | 简单 | [N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) |  |
 
 
 > 实战题目 - 分治
@@ -80,9 +80,9 @@
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- |
 |  17  | 中等  | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) |  |
-|  50  | 中等  | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/description/) |  [Pow(x, n)](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0050.%20Pow(x%2C%20n).py) |
-|  78  | 中等  | [子集](https://leetcode-cn.com/problems/subsets/solution/hui-su-jie-fa-by-jawhiow/) |  |
-| 169  | 简单  | [求众数](https://leetcode-cn.com/problems/majority-element/description/) |  |
+|  50  | 中等  | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) |  [Pow(x, n)](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0050.%20Pow(x%2C%20n).py) |
+|  78  | 中等  | [子集](https://leetcode-cn.com/problems/subsets/) |  |
+| 169  | 简单  | [求众数](https://leetcode-cn.com/problems/majority-element/) |  |
 
 
 > 实战题目 - 二分查找
@@ -90,7 +90,7 @@
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- |
 |  33  | 中等 | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [Search in Rotated Sorted Array](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0033.%20Search%20in%20Rotated%20Sorted%20Array.py) |
-|  69  | 简单 | [x 的平方根](https://leetcode-cn.com/problems/sqrtx/ )       | [Sqrt(x)](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0069.%20Sqrt(x).py) |
+|  69  | 简单 | [x 的平方根](https://leetcode-cn.com/problems/sqrtx/)       | [Sqrt(x)](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0069.%20Sqrt(x).py) |
 | 367  | 简单 | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) | [Valid Perfect Square](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0367.%20Valid%20Perfect%20Square.py) |
 
 
@@ -98,21 +98,21 @@
 
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- |
-| 130  |  中等 | [被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/#/description) |  |
+| 130  |  中等 | [被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/) |  |
 | 200  |  中等 | [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | [Number of Islands](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0200.%20Number%20of%20Islands.py) |
-| 547  |  中等 | [朋友圈](https://leetcode-cn.com/problems/friend-circles/#/description) | |
+| 547  |  中等 | [朋友圈](https://leetcode-cn.com/problems/friend-circles/) | |
 
 
 > 实战题目 - 遍历和搜索
 
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- |
-| 102  | 中等 | [二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/#/description) | [Binary Tree Level Order Traversal](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0102.%20Binary%20Tree%20Level%20Order%20Traversal.py) |
-| 126  | 困难  | [单词接龙 II](https://leetcode-cn.com/problems/word-ladder-ii/description/) |  |
-| 127  | 中等  | [单词接龙](https://leetcode-cn.com/problems/word-ladder/description/) |  |
-| 433  | 中等  | [最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/#/description) |  |
-| 515  | 中等  | [在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/#/description) |  |
-| 529  | 中等  | [扫雷游戏](https://leetcode-cn.com/problems/minesweeper/description/) |  |
+| 102  | 中等 | [二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [Binary Tree Level Order Traversal](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0102.%20Binary%20Tree%20Level%20Order%20Traversal.py) |
+| 126  | 困难  | [单词接龙 II](https://leetcode-cn.com/problems/word-ladder-ii/) |  |
+| 127  | 中等  | [单词接龙](https://leetcode-cn.com/problems/word-ladder/) |  |
+| 433  | 中等  | [最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/) |  |
+| 515  | 中等  | [在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/) |  |
+| 529  | 中等  | [扫雷游戏](https://leetcode-cn.com/problems/minesweeper/) |  |
 
 
 > 实战题目 - 动态规划
@@ -128,17 +128,17 @@
 |  72  | 困难 | [编辑距离 ](https://leetcode-cn.com/problems/edit-distance/) |  |
 |  76  | 困难 | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) |  |
 |  91  | 中等 | [解码方法](https://leetcode-cn.com/problems/decode-ways)     |  |
-| 120  | 中等 | [三角形最小路径和](https://leetcode-cn.com/problems/triangle/description/) |  |
-| 121  | 简单 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/#/description) | [Best Time to Buy and Sell Stock](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) |
+| 120  | 中等 | [三角形最小路径和](https://leetcode-cn.com/problems/triangle/) |  |
+| 121  | 简单 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) |
 | 122  | 简单 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Best Time to Buy and Sell Stock II](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py) |
 | 123  | 困难 | [买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/) |  |
-| 152  | 中等 | [乘积最大子序列](https://leetcode-cn.com/problems/maximum-product-subarray/description/) |  |
+| 152  | 中等 | [乘积最大子序列](https://leetcode-cn.com/problems/maximum-product-subarray/) |  |
 | 188  | 困难 | [买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/) |  |
 | 198  | 简单 | [打家劫舍](https://leetcode-cn.com/problems/house-robber/)   | [House Robber](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0198.%20House%20Robber.py) |
-| 213  | 中等 | [打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/description/) |  |
+| 213  | 中等 | [打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/) |  |
 | 221  | 中等 | [最大正方形](https://leetcode-cn.com/problems/maximal-square/) |  |
 | 279  | 中等 | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | [Perfect Squares](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0279.%20Perfect%20Squares.py) |
-| 322  | 中等 | [零钱兑换](https://leetcode-cn.com/problems/coin-change/description/) |  |
+| 322  | 中等 | [零钱兑换](https://leetcode-cn.com/problems/coin-change/) |  |
 | 518  | 中等 | [零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/) |  |
 | 309  | 中等 | [最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |  |
 | 312  | 困难 | [戳气球](https://leetcode-cn.com/problems/burst-balloons/)   |  |
@@ -156,8 +156,8 @@
 
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- |
-|  36  | 中等 | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/description/) | [Valid Sudoku](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0036.%20Valid%20Sudoku.py) |
-|  37  | 困难 | [解数独](https://leetcode-cn.com/problems/sudoku-solver/#/description) |  |
+|  36  | 中等 | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | [Valid Sudoku](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0036.%20Valid%20Sudoku.py) |
+|  37  | 困难 | [解数独](https://leetcode-cn.com/problems/sudoku-solver/) |  |
 |  51  | 困难 | [N皇后](https://leetcode-cn.com/problems/n-queens/)          |  |
 
 
@@ -165,16 +165,16 @@
 
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- |
-| 455  | 简单 | [分发饼干](https://leetcode-cn.com/problems/assign-cookies/description/) |  |
-| 860  | 简单 | [柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/) |  |
-| 874  | 简单 | [模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation/description/) |  |
+| 455  | 简单 | [分发饼干](https://leetcode-cn.com/problems/assign-cookies/) |  |
+| 860  | 简单 | [柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/) |  |
+| 874  | 简单 | [模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation/) |  |
 
 
 > 实战题目 - trie 树
 
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- |
-| 208  | 中等 | [实现 Trie (前缀树) ](https://leetcode-cn.com/problems/implement-trie-prefix-tree/#/description) | [Implement Trie(Prefix Tree)](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0208.%20Implement%20Trie(Prefix%20Tree).py) |
+| 208  | 中等 | [实现 Trie (前缀树) ](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | [Implement Trie(Prefix Tree)](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0208.%20Implement%20Trie(Prefix%20Tree).py) |
 | 212  | 困难 | [单词搜索 II ](https://leetcode-cn.com/problems/word-search-ii/) |  |
 
 
@@ -182,15 +182,15 @@
 
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- |
-|  52  |  困难 | [N皇后 II ](https://leetcode-cn.com/problems/n-queens-ii/description/) |  |
+|  52  |  困难 | [N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/) |  |
 | 190  |  简单 | [颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) | [Reverse Bits](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0190.%20Reverse%20Bits.py) |
 | 191  |  简单 | [位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) | [Number of 1 Bits](https://github.com/YinZ-510/Algorithm/blob/master/LeetCode/0191.%20Number%20of%201%20Bits.py) |
 | 231  |  简单 | [2的幂](https://leetcode-cn.com/problems/power-of-two/)      |  |
-| 338  |  中等 | [比特位计数](https://leetcode-cn.com/problems/counting-bits/description/) |  |
+| 338  |  中等 | [比特位计数](https://leetcode-cn.com/problems/counting-bits/) |  |
 
 
 > 实战题目 - LRU Catch
 
 | &emsp;题号&emsp; | &emsp;难度&emsp; | 题目&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 答案&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :--: | :--: | ------------------------------------------------------------ | :----------------------------------------------------------- |
-| 146  | 困难  | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/#/) |  |
+| 146  | 困难  | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) |  |
