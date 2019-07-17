@@ -1,14 +1,3 @@
-
-
-
-<div align="center"><img src="/src/main/resources/img/log/log.png" height="180" width="215" ></div>
-
-掌握数据结构和算法直接的好处就是能写出性能更优的代码。算法是一种解决问题的思路和方法，从长期来看，大脑思考能力是个人最重要的核心竞争力，而算法是为数不多的能够训练大脑思考能力的途径之一。
-
-关于要不要学数据结构和算法以及算法有没有用这种问题不想再多做解释，只能说志同道合者共行，如果你也感兴趣，可以和我一起学习数据结构和算法题。
-
-🍭 学习路线加强巩固数据结构基础知识，通过 leetcode 算法题加深对数据结构的理解。
-
 ## 理论基础
 
 | &emsp;&emsp;[数组](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/theoreticalBasis/%E5%B8%B8%E8%A7%81%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/1.%E6%95%B0%E7%BB%84.md)&emsp;&emsp; | &emsp;&emsp;[**链表**](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/theoreticalBasis/%E5%B8%B8%E8%A7%81%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/2.%E9%93%BE%E8%A1%A8.md)&emsp;&emsp;  |  &emsp;&ensp;&ensp;[**栈**](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/theoreticalBasis/%E5%B8%B8%E8%A7%81%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/3.%E6%A0%88.md)&emsp;&ensp;&emsp; | &emsp;&emsp;[**跳表**](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/theoreticalBasis/%E5%B8%B8%E8%A7%81%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/4.%E8%B7%B3%E8%A1%A8.md)&emsp;&emsp; | &emsp;[**散列表**](https://github.com/gaoshengnan/LeetCode/blob/master/src/main/java/theoreticalBasis/%E5%B8%B8%E8%A7%81%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/5.%E6%95%A3%E5%88%97%E8%A1%A8.md)&emsp;&emsp; | &emsp;&emsp;二叉树&emsp;&emsp; |
